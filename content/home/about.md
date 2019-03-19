@@ -13,7 +13,8 @@ weight = 5
     "Estatística Computacional",
     "Data Science",
     "Documentos Dinâmicos",
-    "Text Mining"
+    "Modelos de Regressão",
+    "Planejamento de Experimentos"
   ]
 
 # List your qualifications (such as academic degrees).

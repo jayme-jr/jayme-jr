@@ -251,7 +251,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "contao"
     icon_pack = "fa"
-    link = "/img/curriculum_vitae.pdf"
+    link = "/img/Curriculo.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
