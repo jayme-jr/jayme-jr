@@ -14,7 +14,7 @@ weight = 5
     "Data Science",
     "Documentos Dinâmicos",
     "Modelos de Regressão",
-    "Planejamento de Experimentos"
+    "Mineração de Texto"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,8 +34,9 @@ weight = 5
 
 <p align="justify">Sou estudante do curso de Estatística pela 
 <a href="http://www.ufpr.br/portalufpr/">Universidade Federal do Paraná</a>
-e integrante do Pet Estatística desde 2016. Tenho interesse de longa data
-na área computacional e atualmente nas ferramentas utilizadas na estatística.</p>
+, integrante do Pet Estatística desde 2016 e estagiário do setor de estatística 
+da Renault. Tenho interesse de longa data na área computacional e atualmente 
+nas ferramentas utilizadas na estatística.</p>
 
 
 
